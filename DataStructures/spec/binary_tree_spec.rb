@@ -1,5 +1,6 @@
 require_relative '../lib/dbc_binary_tree.rb'
-require 'spec_helper.rb'
+
+require './spec_helper.rb'
 
 describe 'DBCBinaryTree' do
 
